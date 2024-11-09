@@ -11,15 +11,16 @@ namespace Contrling_Flow
 
             if (Number % 2 == 1)
             {
-                Console.WriteLine("ODD");
+                Console.WriteLine($"{Number} Is ODD");
             }
             else if (Number == 0 )
             {
                 Console.WriteLine("Zero is Neither ODD or EVEN.");
             }
+
             else
             {
-                Console.WriteLine("EVEN");
+                Console.WriteLine($"{Number} Is EVEN");
             }
         }
     }
