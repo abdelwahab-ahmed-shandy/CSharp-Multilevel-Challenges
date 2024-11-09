@@ -18,9 +18,9 @@ Welcome to **Programming Challenges in C#**! This repository offers a collection
 
 ```plaintext
 Programming-Challenges-CSharp/
-├── Easy/
-├── Intermediate/
-├── Advanced/
+├── problem 1_1/
+├── problem 1_2/
+├── problem 1_3/
 └── README.md
 ```
 ## Getting Started
