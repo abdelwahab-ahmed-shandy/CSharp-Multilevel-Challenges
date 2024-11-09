@@ -1,5 +1,4 @@
 //Problem_2 >> Write a program to ask the user to enter his / hir name and print it on screen
-using System.Threading.Channels;
 
 namespace _1to_6
 {
