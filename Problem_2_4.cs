@@ -18,7 +18,7 @@ namespace Any_Tasks
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter Number One : ");
+            Console.Write("Enter Any Number : ");
             int AnyNumber = int.Parse(Console.ReadLine());
 
             if ((AnyNumber - 100 >= -10 && AnyNumber - 100 <= 10) || (AnyNumber - 200 >= -10 && AnyNumber - 200 <= 10))
