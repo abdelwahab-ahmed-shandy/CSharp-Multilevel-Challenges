@@ -22,7 +22,7 @@ namespace Any_Tasks
             Console.Write("Enter One Temperature : ");
             int OneTemperature = int.Parse(Console.ReadLine());
 
-            Console.Write("Enter One Temperature : ");
+            Console.Write("Enter Two Temperature : ");
             int TwoTemperature = int.Parse(Console.ReadLine());
 
             string Statement = (OneTemperature >= 100 && OneTemperature <= 200) || (TwoTemperature >= 100 && TwoTemperature <= 200)? "True" : "False" ;
