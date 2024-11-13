@@ -3,6 +3,8 @@
 ![License](https://img.shields.io/github/license/abdelwahab-shandy/Programming-Challenges-CSharp)
 ![Issues](https://img.shields.io/github/issues/abdelwahab-shandy/Programming-Challenges-CSharp)
 ![Stars](https://img.shields.io/github/stars/abdelwahab-shandy/Programming-Challenges-CSharp)
+![Language](https://img.shields.io/github/languages/top/Abdelwahab-Shandy/Programming-Challenges-CSharp)
+![Commits](https://img.shields.io/github/commit-activity/m/Abdelwahab-Shandy/Programming-Challenges-CSharp)
 
 ## 📌 Introduction
 
