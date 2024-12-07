@@ -20,9 +20,10 @@ Welcome to **Programming Challenges in C#**! This repository offers a collection
 
 ```plaintext
 Programming-Challenges-CSharp/
-├── problem 1_1/
-├── problem 1_2/
-├── problem 1_3/
+├── Solve problems from different sources after levels/
+├── Solve problems on Edabit/
+├── CONTRIBUTING.md/
+├── LICENSE/
 └── README.md
 ```
 ## Getting Started
