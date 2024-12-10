@@ -22,6 +22,7 @@ Welcome to **Programming Challenges in C#**! This repository offers a collection
 Programming-Challenges-CSharp/
 ├── Solve problems from different sources after levels/
 ├── Solve problems on Edabit/
+├── Solve problem on Code Chef/
 ├── CONTRIBUTING.md/
 ├── LICENSE/
 └── README.md
