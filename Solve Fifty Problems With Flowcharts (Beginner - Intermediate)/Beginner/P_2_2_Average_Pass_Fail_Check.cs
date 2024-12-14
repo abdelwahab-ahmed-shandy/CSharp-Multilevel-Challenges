@@ -13,7 +13,7 @@ namespace PracticalExample
     {
         public static void ReadMarks(ref double Mark1, ref double Mark2, ref double Mark3)
         {
-            Console.WriteLine("Write a program to ask the user to enter : Mark1 , Mark2 , Mark3 Then print the average of entered Marks\n");
+            Console.WriteLine("Write a program to ask the user to enter : Mark1 , Mark2 , Mark3 Then Print the Average of entered Marks , and print Pass if average >= 50 , otherwise print Fail\n");
 
             Console.Write("Enter Mark One :");
             Mark1 = double.Parse(Console.ReadLine());
