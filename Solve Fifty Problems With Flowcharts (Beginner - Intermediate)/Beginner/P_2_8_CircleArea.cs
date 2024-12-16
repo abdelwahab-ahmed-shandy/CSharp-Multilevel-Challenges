@@ -27,9 +27,9 @@ namespace PracticalExample
             return Math.PI * (radius * radius);
         }
 
-        public static void PrintResultArea(double TriangleArea)
+        public static void PrintResultArea(double CircleArea)
         {
-            Console.WriteLine($"\nThe Circle Area IS A: {TriangleArea}\n");
+            Console.WriteLine($"\nThe Circle Area IS A: {CircleArea}\n");
         }
 
         static void Main(string[] args)
