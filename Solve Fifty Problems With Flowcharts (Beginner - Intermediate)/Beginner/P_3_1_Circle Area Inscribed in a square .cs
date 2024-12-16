@@ -1,7 +1,7 @@
 /*
  
-Problem_19 >>Circle Area Through HalfRadius
-Write a program to calculate circle area through dirameter, then print it on the screen 
+Problem_20 >> Circle Area Inscribed in a square 
+Write a program to calculate area inscribed in a square , then print it on the screen
 Area = (PI * A * A ) / 4
 
  */
@@ -15,7 +15,7 @@ namespace PracticalExample
     {
         public static void ReadNumbers(ref double HalfRadius)
         {
-            Console.WriteLine("Write a program to calculate circle area through dirameter, then print it on the screen ? \n");
+            Console.WriteLine("Write a program to calculate area inscribed in a square , then print it on the screen ? \n");
             
             Console.Write("Enter The Half A Radius  : ");
             HalfRadius  = double.Parse(Console.ReadLine());
