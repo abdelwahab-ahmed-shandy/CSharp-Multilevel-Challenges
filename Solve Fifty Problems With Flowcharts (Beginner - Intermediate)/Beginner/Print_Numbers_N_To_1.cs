@@ -14,7 +14,7 @@ namespace PracticalExample
 {
     internal class Program
     {
-        public static int ReadAge()
+        public static int ReadNumber()
         {
             Console.Write("Enter Your Number: ");
             int Number = Convert.ToInt32(Console.ReadLine());
@@ -31,7 +31,7 @@ namespace PracticalExample
         static void Main(string[] args)
         {
             Console.WriteLine("Write a program to print numbers from N to 1");
-            PrintNumbers(ReadAge());
+            PrintNumbers(ReadNumber());
         }
     }
 }
