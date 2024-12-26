@@ -38,7 +38,8 @@ namespace PracticalExample
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("Write a program to print numbers from 1 to N");
-            PrintSumNumbers(SumODDNumbers(ReadNumber()));        }
+            Console.WriteLine("Write a program to Sum ODD numbers from 1 to N ");
+            PrintSumNumbers(SumODDNumbers(ReadNumber()));       
+        }
     }
 }
