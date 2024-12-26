@@ -30,7 +30,7 @@ namespace PracticalExample
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("Write a program to print numbers from 1 to N");
+            Console.WriteLine("Write a program to print numbers from N to 1");
             PrintNumbers(ReadAge());
         }
     }
