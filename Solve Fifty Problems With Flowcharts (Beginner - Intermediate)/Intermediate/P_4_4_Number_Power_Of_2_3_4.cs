@@ -35,7 +35,7 @@ namespace PracticalExample
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("Write a program to calculate factorial of N !");
+            Console.WriteLine("Write a program to ask the user to enter : Number , then print the  Number 2 , Number 3 , Number 4");
             PrintNumberOfPower(ReadPositiveNumber());        
         }
     }
