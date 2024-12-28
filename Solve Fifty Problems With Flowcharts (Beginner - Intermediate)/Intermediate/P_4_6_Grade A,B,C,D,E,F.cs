@@ -51,7 +51,7 @@ namespace PracticalExample
 
         public static void PrintPesult(char Result)
         {
-            Console.WriteLine($"The Greae is A {Result}");
+            Console.WriteLine($"The Greae is  {Result}");
         }
 
 
