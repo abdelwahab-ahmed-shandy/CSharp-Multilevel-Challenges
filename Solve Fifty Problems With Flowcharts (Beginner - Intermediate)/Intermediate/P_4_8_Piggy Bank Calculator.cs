@@ -55,7 +55,6 @@ namespace PracticalExample
             return totalPennies;
         }
 
-        // Main method
         static void Main(string[] args)
         {
             Console.WriteLine("Piggy Bank Calculator");
