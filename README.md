@@ -46,6 +46,7 @@ Contributions are welcome! If you'd like to add a new challenge or enhance an ex
 
 ## License
 Distributed under the MIT License. See LICENSE for more information.
+If you benefit from something, do not forget to pray for me and my parents.
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelwahab-shandy/)
