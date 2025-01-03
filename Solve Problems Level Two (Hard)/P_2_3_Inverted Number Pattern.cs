@@ -4,7 +4,7 @@ Problem_12 >> Write a Program to read a number and Print inverted pattern .
 Inverted Number Pattern
 
 input>> 
-3
+5
 
 output>>
 55555
