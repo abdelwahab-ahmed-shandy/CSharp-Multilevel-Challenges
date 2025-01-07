@@ -44,7 +44,7 @@ namespace P5_C_
                     for (char k = 'A'; k <= 'Z'; k++)
                     {
                         word = i.ToString() + j.ToString() + k.ToString();
-                        Console.WriteLine("Trial[" + count + "]:" + word);
+                        Console.WriteLine($"Trial[ { count} ]: {word} ");
                         count++;
                         if (word == Pass)
                         {
