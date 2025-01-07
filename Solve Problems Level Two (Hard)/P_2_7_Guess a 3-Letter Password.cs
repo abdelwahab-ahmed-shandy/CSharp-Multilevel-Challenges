@@ -60,7 +60,7 @@ namespace P5_C_
 
         static void Main(string[] args)
         {
-            guessPassword(readAPassword("Please enter a positive number : "));
+            guessPassword(readAPassword("Enter Your Password (3-letter): "));
         }
     }
 }
